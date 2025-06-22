@@ -11,3 +11,10 @@ python -m pip install -r requirements.txt
 python -m pip install notebook
 
 
+This repository includes a folder called PROJECT-SOURCE-CODE-ZIP, which contains a ZIP file with the full source code for the project.
+
+The project has been tested in a clean environment and runs smoothly with all dependencies using both PyCharm Community and Professional Edition.
+
+
+
+** Quick Notes about ourlier Analysis **
