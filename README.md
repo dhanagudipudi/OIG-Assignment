@@ -10,13 +10,13 @@ python -m pip install -r requirements.txt
 2 - to install jupyternotebook to execute code  -->
 python -m pip install notebook
 
-
+# ZIP Archive & PPT
 This repository includes a folder called PROJECT-SOURCE-CODE-ZIP, which contains a ZIP file with the full source code for the project and Power Point slides regarding quick visual representation of outlier analysis output
 
 The project has been tested in a clean environment and runs smoothly with all dependencies using both PyCharm Community and Professional Edition.
 
 
-
+#Rationale behind Methodology (IQR)
 ** Quick Notes about ourlier Analysis, why IQR method is chosen**
 
 I went with the IQR method for outlier detection mainly cause it's simple and works better with messy, real-world data like medical claims. 
