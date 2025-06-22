@@ -17,4 +17,12 @@ The project has been tested in a clean environment and runs smoothly with all de
 
 
 
-** Quick Notes about ourlier Analysis **
+** Quick Notes about ourlier Analysis, why IQR method is chosen**
+
+I went with the IQR method for outlier detection mainly cause it's simple and works better with messy, real-world data like medical claims. 
+
+The medical claim data is kind of skewed, because some patients have high-value claims like “heart surgery” vs “knee surgery” resulting in extreme values, so methods like Z-score didn’t really help much, as Z-scores method assumes data is always normally distributed, which isn’t the case here. 
+
+IQR just looks at the middle chunk of the data and flags data points that’s way off, which made it easier to spot actual outliers without getting distracted by the noisy data.
+
+**
