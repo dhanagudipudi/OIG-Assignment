@@ -17,7 +17,6 @@ The project has been tested in a clean environment and runs smoothly with all de
 
 
 #  Why IQR
-** Quick Notes about ourlier Analysis, why IQR method is chosen**
 
 I went with the IQR method for outlier detection mainly cause it's simple and works better with messy, real-world data like medical claims. 
 
