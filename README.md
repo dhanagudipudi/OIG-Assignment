@@ -11,7 +11,7 @@ python -m pip install -r requirements.txt
 python -m pip install notebook
 
 
-This repository includes a folder called PROJECT-SOURCE-CODE-ZIP, which contains a ZIP file with the full source code for the project.
+This repository includes a folder called PROJECT-SOURCE-CODE-ZIP, which contains a ZIP file with the full source code for the project and Power Point slides regarding quick visual representation of outlier analysis output
 
 The project has been tested in a clean environment and runs smoothly with all dependencies using both PyCharm Community and Professional Edition.
 
