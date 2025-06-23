@@ -5,13 +5,13 @@ This project is a data analysis exercise focused on identifying potential fraud,
 
 # Installation
 
-Before running the Jupyter Notebooks, make sure to install all required dependencies by executing the following commands: 
+The project has been tested in a clean environment and runs smoothly with all dependencies on both PyCharm Community and Professional Editions. Therefore, it should be relatively easy to execute.
 
-1 - to install all dependencies from requirements.txt --> 
-python -m pip install -r requirements.txt
+However, if any issues are encountered, follow these steps to set up the environment with the required dependencies:
 
-2 - to install jupyternotebook to execute code  -->
-python -m pip install notebook
+1. Install all dependent libraries from  'requirements.txt` --> python -m pip install -r requirements.txt
+  
+2. Install Jupyter Notebook to run the code--> python -m pip install notebook
 
 # in-line comments
 
