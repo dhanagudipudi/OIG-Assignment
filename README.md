@@ -13,20 +13,18 @@ python -m pip install -r requirements.txt
 2 - to install jupyternotebook to execute code  -->
 python -m pip install notebook
 
-# ZIP Archive & PPT
-This repository includes a folder called PROJECT-SOURCE-CODE-ZIP, which contains a ZIP file with the full source code for the project and Power Point slides regarding quick visual representation of outlier analysis output
-
-The project has been tested in a clean environment and runs smoothly with all dependencies using both PyCharm Community and Professional Edition.
-
 # in-line comments
 
 Clear, in-line comments were included before and after each major step to explain the thought process and ensure the flow of execution is easy to follow as requested.
 
 #  Why IQR
 
-I chose the IQR method for outlier detection mainly because it's simple and tends to work better with complex, real-world data like medical claims.
-
+I chose the IQR method for outlier detection mainly because it's simple and tends to work better with complex, real-world data like medical claims. 
 The medical claim data is somewhat skewed—some patients have high-value claims like 'heart surgery' compared to lower-cost procedures like 'knee surgery.' This results in extreme values, making methods like Z-score less effective, since Z-score assumes the data is normally distributed, which isn’t the case here.
 
-IQR, on the other hand, focuses on the middle 50% of the data and flags points that fall far outside that range. This made it easier to identify true outliers without being misled by the noise in the data."
+IQR, on the other hand, focuses on the middle 50% of the data and flags points that fall far outside that range. This made it easier to identify true outliers without being misled by the noise in the data.
 
+# ZIP Archive & PPT
+This repository includes a folder called PROJECT-SOURCE-CODE-ZIP, which contains a ZIP file with the full source code for the project and Power Point slides regarding quick visual representation of outlier analysis output
+
+The project has been tested in a clean environment and runs smoothly with all dependencies using both PyCharm Community and Professional Edition.
