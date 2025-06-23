@@ -3,6 +3,10 @@
 
 This project is a data analysis exercise focused on identifying potential fraud, waste, or abuse in Medicaid claims. It involves exploratory data analysis (EDA), data cleansing, and transformation of multi-sheet healthcare data. The analysis includes provider-level payment and client metrics, outlier detection, and visual summaries. Results are compiled into a structured Excel report to support investigative insights in a realistic scenario. 
 
+# in-line commens
+
+Clear, in-line comments were included before and after each major step to explain the thought process and ensure the flow of execution is easy to follow as requested.
+
 # Installation
 
 Before running the Jupyter Notebooks, make sure to install all required dependencies by executing the following commands: 
