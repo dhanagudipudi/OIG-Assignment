@@ -1,7 +1,7 @@
 # DA-IV-IOG-ASSIGNMENT
 # About
 
-This project is a data analysis exercise focused on identifying potential fraud, waste, or abuse in Medicaid claims. It involves exploratory data analysis (EDA), data cleansing, and transformation of multi-sheet healthcare data. The analysis includes provider-level payment and client metrics, outlier detection, and visual summaries. As request are the final results are compiled into a "Data product" named Medicaid_Fraud_Case_OIG_Investigated_Data.xlsx to support investigative insights in a realistic scenario. 
+This project is a data analysis exercise focused on identifying potential fraud, waste, or abuse in Medicaid claims. It involves exploratory data analysis (EDA), data cleansing, and transformation of multi-sheet healthcare data. The analysis includes provider-level payment and client metrics, outlier detection, and visual summaries. As request are the final results are compiled into a "Data product" named Medicaid_Fraud_Case_OIG_Investigated_Data.xlsx .
 
 # Installation
 
