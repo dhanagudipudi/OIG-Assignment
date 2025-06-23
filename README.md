@@ -5,7 +5,7 @@ This project is a data analysis exercise focused on identifying potential fraud,
 
 # Installation
 
-The project has been tested in a clean environment and runs smoothly with all dependencies on both PyCharm Community and Professional Editions. Therefore, it should be relatively easy to execute.
+The project has been tested in a clean environment and runs smoothly with all dependencies on both PyCharm Community and Professional Editions. Therefore, it should be relatively easy to execute. Plase download the "OIG-Assignment.ZIP" from Source Code folder and import the project for execution.
 
 However, if any issues are encountered, follow these steps to set up the environment with the required dependencies:
 
