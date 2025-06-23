@@ -24,10 +24,9 @@ Clear, in-line comments were included before and after each major step to explai
 
 #  Why IQR
 
-I went with the IQR method for outlier detection mainly cause it's simple and works better with messy, real-world data like medical claims. 
+I chose the IQR method for outlier detection mainly because it's simple and tends to work better with complex, real-world data like medical claims.
 
-The medical claim data is kind of skewed, because some patients have high-value claims like “heart surgery” vs “knee surgery” resulting in extreme values, so methods like Z-score didn’t really help much, as Z-scores method assumes data is always normally distributed, which isn’t the case here. 
+The medical claim data is somewhat skewed—some patients have high-value claims like 'heart surgery' compared to lower-cost procedures like 'knee surgery.' This results in extreme values, making methods like Z-score less effective, since Z-score assumes the data is normally distributed, which isn’t the case here.
 
-IQR just looks at the middle chunk of the data and flags data points that’s way off, which made it easier to spot actual outliers without getting distracted by the noisy data.
+IQR, on the other hand, focuses on the middle 50% of the data and flags points that fall far outside that range. This made it easier to identify true outliers without being misled by the noise in the data."
 
-**
